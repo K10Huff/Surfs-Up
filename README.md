@@ -7,7 +7,7 @@ Using Python, Pandas, and SQLAlchemy generate summary statistics for a weather d
 -	There were more temperature readings taken during June than December. 
 -	The average temperature was higher in June than in December.
 -	As expected, the minimum temperature was lower in December and the maximum temperature was higher in June. <br>
-![Temperature Stats](link)
+![Temperature Stats](https://github.com/K10Huff/Surfs-Up/blob/31126e9f0dbc7a1f4607002c62583466d451dfa6/Resources/Temp%20Stats.png)
 
 # Summary 
 As expected, June was an overall warmer month than December. December however, wasn’t that much colder, only trailing behind June by a few degrees in each category. 
